@@ -1,0 +1,399 @@
+.some{
+
+    background-image: url('../img/bg1.png');
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+.main-heading{
+    width: 100%;
+}
+
+
+.container{
+    width: 1140px;
+    margin: auto;
+}
+
+.hNavbar{
+    padding-right: 20rem;
+}
+.img-fluid{
+    height: 45px;
+    width: auto;
+}
+.icon {
+    position: absolute;
+    right: 18rem;
+    top: 42px;
+}
+.h-search{
+    position: relative;
+    top: 5px;
+    left: 10px;
+    
+}
+.h-btn{
+    position: relative;
+    top: 5px;
+    left: 10px;
+    color: aliceblue;
+}
+
+.h-c-1 h1 {
+    margin-top: 40px;
+    
+    padding-left: 2rem;
+    padding-right: 10rem;
+    font-size: 70px;
+    font-family: 'Audiowide', cursive;
+
+}
+
+.h-c-1 h2{
+    padding-left: 2rem;
+    font-size: 50px;
+    
+    margin-bottom: 30px;
+}
+
+.h-c-1 p {
+    padding-left: 2rem;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.h-c-1 a{
+    margin-left: 2rem;
+    border: 2px solid black;
+    font-size: 20px;
+    padding: 5px 50px;
+    border-radius: 20px 20px;
+    margin-top: 10px;
+    display: inline-block;
+    
+}
+
+/* ...........banner section start here ...........  */
+
+.banner-section{
+    margin: 12rem 0;
+}
+
+
+
+.banner-text{
+    
+    padding-left: 9rem;
+    padding-top: 5rem;
+    
+}
+.banner-text h1{
+    color: aliceblue;
+    font-size: 3rem;
+    font-family: 'Audiowide', cursive;
+    font-weight: 900;
+}
+.banner-text h2{
+    color: aliceblue;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.banner-text p{
+    color: aliceblue;
+    font-weight: 200;
+    padding-right: 90px;
+    font-size: 20px;
+}
+/* ...........banner section end  here ...........  */
+
+
+/* ...........feature section .....start here .....  */
+
+
+.feature-section{
+    width: 100%;
+}
+
+.main-feature{
+    position: relative;
+    color: aliceblue;
+}
+
+.feature{
+    position: absolute;
+    top: 30px;
+    padding: 3rem;
+    left: 10px;
+}
+
+.feature-text1{
+    padding: 40px;
+}
+.feature-text1 h1{
+    font-size: 30px;
+    margin-top: 20px;
+}
+.feature-text2 h1{
+    margin-top: 10px;
+    font-size: 30px;
+}
+.feature-text3 h1{
+    font-size: 30px;
+    margin-top: 38px;
+}
+.feature-text2{
+    padding: 40px;
+}
+.feature-text3{
+    padding: 40px;
+}
+.feature-text3 img{
+    
+    padding-top: 22px;
+}
+
+
+
+/* ...........feature section .....end here .....  */
+
+
+/* ..............card section start here ..........  */
+
+
+.card-section{
+    width: 100%;
+    margin-bottom: 20rem;
+}
+.card-heading-text{
+    text-align: center;
+    color: white;
+}
+
+.main-card{
+    position: relative;
+}
+
+
+.card-pic{
+    position: absolute;
+    top: 120px;
+    left: 85px;
+}
+
+
+.card-text{
+    position: absolute;
+    top: 29rem;
+    left: 4rem;
+    
+}
+
+.card-text h1{
+    position: absolute;
+    left: 90px;
+    color: aliceblue;
+    
+}
+.card-text p{
+    margin-left: 40px;
+    margin-top: 70px;
+    color: aliceblue;
+    
+    
+}
+.card-text a{
+    
+    display: inline-block;
+    margin-left: 30%;
+    border: 2px solid black;
+    padding: 8px 40px;
+    border-radius: 20px 20px ;
+    color: aliceblue;
+    
+    
+}
+/* ....................... */
+
+.card-bg2{
+    position: relative;
+}
+.card-pic2{
+    position: absolute;
+    top: 100px;
+    left: 47px;
+
+}
+.card-text2{
+    position: absolute;
+    top: 26rem;
+    left: 4rem;
+    
+}
+.card-text2 h1{
+    position: absolute;
+    left: 90px;
+    color: aliceblue;
+    
+}
+.card-text2 p{
+    margin-left: 40px;
+    margin-top: 70px;
+    color: aliceblue;
+    
+    
+}
+.card-text2 a{
+    
+    display: inline-block;
+    margin-left: 30%;
+    border: 2px solid black;
+    padding: 8px 40px;
+    border-radius: 20px 20px ;
+    color: aliceblue;
+    
+    
+}
+/* ......................  */
+.card-bg3{
+    position: relative;
+}
+.card-pic3{
+    position: absolute;
+    top: 80px;
+    left: 90px;
+
+}
+.card-text3{
+    position: absolute;
+    top: 26rem;
+    left: 4rem;
+    
+}
+.card-text3 h1{
+    position: absolute;
+    left: 90px;
+    color: aliceblue;
+    
+}
+.card-text3 p{
+    margin-left: 40px;
+    margin-top: 70px;
+    color: aliceblue;
+    
+    
+}
+.card-text3 a{
+    
+    display: inline-block;
+    margin-left: 30%;
+    border: 2px solid black;
+    padding: 8px 40px;
+    border-radius: 20px 20px ;
+    color: aliceblue;
+    
+    
+}
+
+
+
+
+
+/* ..............card section end here ..........  */
+/* ..............service section start here ..........  */
+
+.main-service{
+    width: 100%;
+}
+.service{
+    color: aliceblue;
+}
+.left h1{
+    margin-right: 200rem;
+    margin-bottom: 60px;
+    font-weight: 700;
+    font-family: 'Audiowide', cursive;
+}
+
+.left p{
+    margin-right: 15rem;
+    letter-spacing: 2px;
+    line-height: 28px;
+}
+.left h2{
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight: 700;
+    font-style: italic;
+    margin-top: 90px;
+
+}
+.left h3{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 700;
+    font-style: italic;
+    letter-spacing: 3px;
+
+}
+
+.left h4{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.left A{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid black;
+    color: aliceblue;
+    font-size: 25px;
+
+}
+
+
+
+.service-img {
+    margin-top: 150px;
+}
+
+
+/* ..............service section end here ..........  */
+/* ..............about section start here ..........  */
+
+.about-section{
+    width: 100%;
+    background-image: url('/img/about-bg.png');
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+}
+
+.about_img{}
+.about_img img{
+    width: 100%;
+}
+
+
+/* ..............about section end here ..........  */
+
